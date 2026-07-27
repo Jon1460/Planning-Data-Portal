@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "crash-explorer-static",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": ["C:\\Users\\jsinker\\OneDrive - County of Montgomery, PA\\Documents\\Claude Output\\.claude\\static-server.js"],
+      "port": 8080
+    },
+    {
+      "name": "crashviewer-app",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": ["C:\\Users\\jsinker\\OneDrive - County of Montgomery, PA\\Documents\\Claude Output\\CrashViewer\\server.js"],
+      "port": 5173
+    }
+  ]
+}
